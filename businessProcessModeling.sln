@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "businessProcessModeling", "businessProcessModeling\businessProcessModeling.csproj", "{15E527B8-6CD7-44DD-9B8D-84DA1C0FE32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaluationOfExpressions", "EvaluationOfExpressions\EvaluationOfExpressions.csproj", "{1FD3AF1F-CDBC-45A4-BAE9-A82EFEA3A24E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15E527B8-6CD7-44DD-9B8D-84DA1C0FE32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E527B8-6CD7-44DD-9B8D-84DA1C0FE32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E527B8-6CD7-44DD-9B8D-84DA1C0FE32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E527B8-6CD7-44DD-9B8D-84DA1C0FE32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD3AF1F-CDBC-45A4-BAE9-A82EFEA3A24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD3AF1F-CDBC-45A4-BAE9-A82EFEA3A24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD3AF1F-CDBC-45A4-BAE9-A82EFEA3A24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD3AF1F-CDBC-45A4-BAE9-A82EFEA3A24E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2354E50-F511-447F-A1A4-B74F89888864}
+	EndGlobalSection
+EndGlobal
